@@ -42,5 +42,5 @@ http://15.204.209.106/druid/login.html
 
 use：loginUsername=ttx&loginPassword=ttx123456.
 
-![image-20240327160626906](../AppData/Roaming/Typora/typora-user-images/image-20240327160626906.png)
+![image-20240327160626906](https://oss.wencha.cfd/img/20240327162236.png)
 
