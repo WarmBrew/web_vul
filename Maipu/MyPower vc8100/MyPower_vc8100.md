@@ -30,4 +30,4 @@ Accept-Language: zh-CN,zh;q=0.9
 Connection: close
 ```
 
-![2](https://oss.wencha.cfd/img/20240618151322.png)
+![2](./2.png)
