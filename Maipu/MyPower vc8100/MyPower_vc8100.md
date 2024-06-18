@@ -6,7 +6,7 @@ The product of Maipu Communication Technology Co., Ltd.: MyPower vc8100 (version
 
 ![](./1.png)
 
-![image-20240618151340033](https://oss.wencha.cfd/img/20240618151341.png)
+![image-20240618151340033](./3.png)
 
 Program path: / app/tcpdump/tcpdump.php
 
