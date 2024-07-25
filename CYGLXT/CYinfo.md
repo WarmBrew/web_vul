@@ -4,4 +4,4 @@ Super easy enterprise management system information leakage vulnerability
 
 Information leakage vulnerability of super easy enterprise management system; The server absolute path can be leaked by entering a single quotation mark。
 
-![image-20240724201852442](image-20240724201852442.png)
+![1](5.png)
